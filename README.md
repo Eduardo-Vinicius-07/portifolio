@@ -7,10 +7,10 @@ Este repositório foi criado como parte do desafio do Bootcamp I para documentar
 
 ## 📁 Estrutura do Repositório
 
-- `projetos-academicos/`  
+- `projetos-academicos`  
   Projetos desenvolvidos durante a graduação, em disciplinas e atividades acadêmicas.
 
-- `projetos-pessoais/`  
+- `projetos-pessoais`  
   Projetos que desenvolvi por interesse próprio, para prática, aprendizado e experimentação.
 
 ## 🚀 Objetivos
