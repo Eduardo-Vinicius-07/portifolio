@@ -1,17 +1,15 @@
-# Projetos Acadêmicos
+# 📚 Projetos Acadêmicos
 
-Esta pasta contém projetos desenvolvidos durante a graduação em Engenharia de Software no CEUB.  
-Os projetos aqui listados representam atividades, trabalhos práticos e desafios propostos ao longo do curso.
+Esta pasta reúne projetos desenvolvidos ao longo da minha graduação em Engenharia de Software no CEUB.  
+Os projetos refletem conteúdos estudados em disciplinas como programação, engenharia de requisitos, algoritmos, entre outras.
 
-## 📚 Lista de Projetos
+## 🔍 O que você encontrará aqui
 
-- `nome-do-projeto-1/` – Breve descrição do projeto 1
-- `nome-do-projeto-2/` – Breve descrição do projeto 2
-- `nome-do-projeto-3/` – Breve descrição do projeto 3
+- Aplicações e scripts desenvolvidos em sala de aula
+- Trabalhos de disciplinas técnicas
+- Projetos integradores e desafios acadêmicos
 
-> À medida que novos projetos forem adicionados, esta lista será atualizada.
+---
 
-## 💡 Objetivo
-
-Demonstrar minha evolução como estudante de Engenharia de Software, aplicando conceitos aprendidos em sala de aula na prática.
+📌 À medida que novos trabalhos forem concluídos, eles serão adicionados aqui com seus respectivos códigos e documentações.
 
