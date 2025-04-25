@@ -7,7 +7,6 @@ São ideias, experimentos e práticas que me ajudam a aprender novas tecnologias
 
 - Mini aplicativos e utilitários
 - Páginas web simples
-- Scripts para automação ou estudo
 - Projetos de cursos online
 
 ---
