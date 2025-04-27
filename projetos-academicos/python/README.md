@@ -22,6 +22,3 @@ Aqui você encontrará:
 1. Certifique-se de ter o Python instalado em sua máquina.  
    ➔ [Baixar Python](https://www.python.org/downloads/)
 
-2. Clone o repositório:
-   ```bash
-   git clone https://github.com/david-rocha-1775/portifolio.git
