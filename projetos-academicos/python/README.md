@@ -6,8 +6,7 @@ Esta pasta contém projetos e exercícios desenvolvidos utilizando a linguagem d
 
 Aqui você encontrará:
 
-- Scripts de automação
-- Resoluções de exercícios acadêmicos
+- Resoluções de exercícios 
 - Pequenos aplicativos e ferramentas
 - Projetos de prática e experimentação
 
