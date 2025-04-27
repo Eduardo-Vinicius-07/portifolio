@@ -1,6 +1,6 @@
 # 🐍 Projetos em Python
 
-Esta pasta contém projetos e exercícios desenvolvidos utilizando a linguagem de programação Python.
+Esta pasta contém projetos e exercícios desenvolvidos utilizando a linguagem de programação Python feito durante a minha graduação.
 
 ## 📚 Conteúdo
 
