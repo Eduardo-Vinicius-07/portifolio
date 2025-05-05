@@ -30,3 +30,5 @@ Este repositório foi criado como parte do desafio do Bootcamp I para documentar
 ### 💡 Observação
 
 Este repositório está em constante atualização à medida que novos projetos são desenvolvidos. Fique à vontade para explorar e acompanhar meu progresso!
+
+Este repositório está em constante atualização à medida que novos projetos são desenvolvidos. Fique à vontade para explorar e acompanhar meu progresso!Este repositório está em constante atualização à medida que novos projetos são desenvolvidos. Fique à vontade para explorar e acompanhar meu progresso!Este repositório está em constante atualização à medida que novos projetos são desenvolvidos. Fique à vontade para explorar e acompanhar meu progresso!Este repositório está em constante atualização à medida que novos projetos são desenvolvidos. Fique à vontade para explorar e acompanhar meu progresso!Este repositório está em constante atualização à medida que novos projetos são desenvolvidos. Fique à vontade para explorar e acompanhar meu progresso!
