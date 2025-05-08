@@ -7,11 +7,12 @@ Este repositório foi criado como parte do desafio do Bootcamp I para documentar
 
 ## 📁 Estrutura do Repositório
 
-- `projetos-academicos`  
+- [🎓 Projetos Acadêmicos](https://github.com/david-rocha-1775/portifolio/tree/main/projetos-academicos)  
   Projetos desenvolvidos durante a graduação, em disciplinas e atividades acadêmicas.
 
-- `projetos-pessoais`  
+- [🛠️ Projetos Pessoais](https://github.com/david-rocha-1775/portifolio/tree/main/projetos-pessoais)  
   Projetos que desenvolvi por interesse próprio, para prática, aprendizado e experimentação.
+
 
 ## 🚀 Objetivos
 
