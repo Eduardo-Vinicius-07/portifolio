@@ -12,4 +12,3 @@ Os projetos refletem conteúdos estudados em disciplinas como programação, eng
 ---
 
 📌 À medida que novos trabalhos forem concluídos, eles serão adicionados aqui com seus respectivos códigos e documentações.
-
