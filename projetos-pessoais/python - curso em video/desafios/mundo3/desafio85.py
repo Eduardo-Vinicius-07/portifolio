@@ -1,0 +1,12 @@
+numeros=[[],[]]
+for i in range(0,7):
+    valor=int(input(f"Digite o {i+1}º valor: "))
+    if valor%2==0:
+        numeros[0].append(valor)
+    else:
+        numeros[1].append(valor)
+numeros[0].sort()
+numeros[1].sort()
+
+print(f"\nOs valores pares digitados foram: {numeros[0]}")
+print(f"Os valores ímpares digitados foram: {numeros[1]}")
