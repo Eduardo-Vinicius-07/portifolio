@@ -14,7 +14,7 @@ As atividades têm como objetivo aplicar os fundamentos da programação estrutu
 ## 🛠️ Tecnologias Utilizadas
 
 - Linguagem C (padrão ANSI)
-- Compiladores como GCC ou Dev-C++
+- Compiladores como Dev-C++
 - Editor: VS Code / Code::Blocks / outros ambientes técnicos
 
 ## 📌 Observação
