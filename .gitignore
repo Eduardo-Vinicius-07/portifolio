@@ -1,0 +1,14 @@
+# Ignorar arquivos compilados em C
+*.exe
+*.out
+*.o
+
+# Ignorar pasta de saída
+output/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar pastas do VS Code
+.vscode/
