@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 int main() {
     float bMaior, bMenor, altura, area;
     printf("digite o valor da base maior: ");   
