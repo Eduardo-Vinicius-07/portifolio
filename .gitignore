@@ -12,5 +12,6 @@ output/
 
 # Ignorar pastas do VS Code
 .vscode/
+
 # Ignorar arquivos de configuração do Python
 __pycache__/
