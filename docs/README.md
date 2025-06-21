@@ -17,18 +17,6 @@ Você pode acessar o site publicado aqui:
 
 ---
 
-## ✨ Destaques do Site
-
-- Apresentação pessoal e acadêmica
-- Botões personalizados com ícones
-- Links diretos para:
-  - Projetos acadêmicos
-  - Projetos pessoais
-  - LinkedIn
-  - GitHub
-
----
-
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
