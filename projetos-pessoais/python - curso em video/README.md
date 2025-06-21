@@ -1,6 +1,6 @@
 # 🎥 Python - Curso em Vídeo
 
-Esta pasta reúne os exercícios e projetos que estou desenvo como parte do curso online **"Curso de Python"** ministrado pelo professor Gustavo Guanabara, do portal [Curso em Vídeo](https://www.cursoemvideo.com/).
+Esta pasta reúne os exercícios e projetos que estou desenvolvi como parte do curso online **"Curso de Python"** ministrado pelo professor Gustavo Guanabara, do portal [Curso em Vídeo](https://www.cursoemvideo.com/).
 
 ## 📚 Conteúdo do Curso
 
