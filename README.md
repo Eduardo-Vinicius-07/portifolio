@@ -1,4 +1,5 @@
-# Portfólio de David Rocha
+# Portfólio de Eduardo Vinicius
+
 
 Bem-vindo(a) ao meu portfólio de projetos!  
 Sou estudante de Engenharia de Software no CEUB, com foco em desenvolvimento de software, versionamento de código e boas práticas de programação.
